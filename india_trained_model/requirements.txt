@@ -1,0 +1,14 @@
+boto3
+geopandas
+s3transfer
+shapely
+matplotlib
+scikit-learn
+numpy
+pandas
+jmespath
+six
+python-dateutil
+rasterio
+geojson
+tensorflow

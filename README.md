@@ -88,4 +88,4 @@ To execute the training process the following notebooks are executed in order:
 
 For inference, the following notebook is used:
 
-1. 4.0 informal_settlement_inference
+1. 4.0 informal_settlement_inference.ipynb
